@@ -3,6 +3,14 @@
 # MAGIC
 # COMMAND ----------
 
+from typing import List
+
+import pandas as pd
+from databricks import automl
+from pyspark.sql import DataFrame
+
+spark.conf.set("spark.sql.execution.arrow.pyspark.enabled", False)
+
 
 def custom_data_preparation(
     table_name: str, categorical_features: List[str], numeric_features: List[str]
