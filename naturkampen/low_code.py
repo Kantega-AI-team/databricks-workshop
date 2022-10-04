@@ -11,6 +11,10 @@
 for så å gjøre noen enkle transformasjoner på datasettet.
 Som sist - Det er ikke så farlig om du ikke forstår hva som skjer her! """
 
+""" Vi begynner med å importere et par nyttige klasser og funksjoner, 
+for så å gjøre noen enkle transformasjoner på datasettet.
+Som sist - Det er ikke så farlig om du ikke forstår hva som skjer her! """
+
 
 from typing import List
 
@@ -48,13 +52,12 @@ def custom_data_preparation(
 
 
 df = custom_data_preparation(
-    "naturkampen_2",
-    categorical_features=["county", "mayors_party"],
+    "naturkampen",
+    categorical_features=["county", "party"],
     numeric_features=["area", "population"],
 )
 
 display(df.sample(0.1))
-
 # COMMAND ----------
 
 # MAGIC %md Selve modelltreningen foregår i neste celle. Vi bruker [databricks automl](https://docs.databricks.com/applications/machine-learning/automl.html?_ga=2.221852319.625249080.1662571032-1699436349.1656921042) som trener på forskjellige modeller fra scikit-learn, XGBoost og LightGBM. Vi har satt `timeout_minutes=5` som betyr at vi gir auto-ML høyst 5 minutter på å trene og tune ulike modeller.
@@ -70,19 +73,3 @@ summary = automl.regress(
     primary_metric="mae",
     timeout_minutes=5,
 )
-
-# COMMAND ----------
-
-# MAGIC %md #### Oppgave 1: Kan du gjøre en prediksjon med en av modellene?
-# MAGIC
-# MAGIC Hvordan tolker du prediksjonen?
-# MAGIC
-# MAGIC **TIPS**: Se på eksperimentnotebooken som har laget modellen
-
-# COMMAND ----------
-
-# MAGIC %md #### Oppgave 2: Kan du forklare modellen du brukte for prediksjon?
-# MAGIC
-# MAGIC Hvilke inputvariabler kan forklare mest av naturkampen-plasseringen?
-# MAGIC
-# MAGIC **TIPS**: Se på eksperimentnotebooken
