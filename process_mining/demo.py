@@ -31,7 +31,7 @@ from pm4py.visualization.heuristics_net import visualizer as hn_visualizer
 
 # COMMAND ----------
 
-df = pd.read_csv("process_mining_data.csv")
+df = spark.read.table("process_mining").toPandas()
 
 # COMMAND ----------
 
