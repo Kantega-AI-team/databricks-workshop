@@ -1,20 +1,7 @@
 # Databricks notebook source
 # MAGIC %md ## Low code ML
 # MAGIC
-# MAGIC *Grønnere enn Grønnest* ber deg nå vurdere om det er mulig å forutse en kommunes rangering i naturkampen, baserte på generelle opplysninger som folketall, areal og hvilket parti som har ordføreren i kommunen.
-# MAGIC
-# MAGIC Din oppgave er å finne ut om noen av disse variablene forklarer mye av sluttrangeringen. Du velger å bygge mange modeller, raskt - ved bruk av et low code ML-verkøy.
-
 # COMMAND ----------
-
-""" Vi begynner med å importere et par nyttige klasser og funksjoner, 
-for så å gjøre noen enkle transformasjoner på datasettet.
-Som sist - Det er ikke så farlig om du ikke forstår hva som skjer her! """
-
-""" Vi begynner med å importere et par nyttige klasser og funksjoner, 
-for så å gjøre noen enkle transformasjoner på datasettet.
-Som sist - Det er ikke så farlig om du ikke forstår hva som skjer her! """
-
 
 from typing import List
 
@@ -32,7 +19,8 @@ def custom_data_preparation(
     Not strictly necassary, just makes it easier to view and understand
     how categorical encoding works
     """
-    df = spark.read.table(table_name).toPandas()
+    df = spark.read.table(table_name).drop("mayor", "_c0").toPandas().dropna()
+    df["party"] = df["party"].apply(lambda x: x.replace(" ", "").replace("\n", ""))
 
     new_numerical_columns = []
     for category in categorical_features:
