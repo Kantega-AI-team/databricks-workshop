@@ -1,0 +1,342 @@
+;name;county;area;population;rank;party;mayor
+0;Halden;VIKEN;53;31387;122;Sp;Anne-Kari Holm
+1;Moss;VIKEN;388;49668;23;Ap;Hanne Tollerud
+2;Sarpsborg;VIKEN;155;57372;272;Ap;Sindre Martinsen-Evje
+3;Fredrikstad;VIKEN;293;83193;19;Ap;Jon-Ivar Nygård (til 21. oktober 2021) Siri Martinsen (fra 21. oktober 2021)
+4;Drammen;VIKEN;334;101859;172;Ap;Monica Myrvold Berg
+5;Kongsberg;VIKEN;37;27694;183;Sp;Kari Anne Sand
+6;Ringerike;VIKEN;22;30835;21;Ap;Kirsten Orebråten
+7;Hvaler;VIKEN;52;4694;9;Ap;Mona Vauger
+8;Aremark;VIKEN;5;1325;193;Sp;Håkon Tolsby
+9;Marker;VIKEN;10;3601;66;Sp;Theodor Bye
+10;Indre Østfold;VIKEN;60;45201;46;Sp;Saxe Frøshaug
+11;Skiptvet;VIKEN;41;3825;27;Sp;Anne-Grethe Larsen
+12;Rakkestad;VIKEN;20;8222;168;Sp;Karoline Fjeldstad
+13;Råde;VIKEN;72;7568;302;H;René Rafshol
+14;Vestby;VIKEN;136;18290;4;Ap;Tom Anders Ludvigsen
+15;Nordre Follo;VIKEN;306;60034;14;Ap;Hanne Opdan
+16;Ås;VIKEN;202;20439;245;Ap;Ola Nordal
+17;Frogn;VIKEN;188;15953;98;Sp;Hans Kristian Raanaas
+18;Nesodden;VIKEN;325;19805;1;Ap;Truls Wickholm
+19;Bærum;VIKEN;678;128233;3;H;Lisbeth Hammer Krog
+20;Asker;VIKEN;261;94915;20;H;Lene Conradi
+21;Aurskog-Høland;VIKEN;17;17591;68;Sp;Gudbrand Kvaal
+22;Rælingen;VIKEN;334;18730;5;Ap;Ståle Grøtte
+23;Enebakk;VIKEN;57;11065;72;Sp;Hans Kristian Solberg
+24;Lørenskog;VIKEN;638;42740;169;Ap;Ragnhild Bergheim
+25;Lillestrøm;VIKEN;212;86953;11;Ap;Jørgen Vik
+26;Nittedal;VIKEN;137;24454;35;Ap;Hilde Thorkildsen
+27;Gjerdrum;VIKEN;86;7043;300;Ap;Anders Østensen
+28;Ullensaker;VIKEN;162;40459;111;Ap;Eyvind Jørgensen Schumacher
+29;Nes;VIKEN;38;23422;294;Ap;Grete Sjøli
+30;Eidsvoll;VIKEN;67;26031;124;Sp;John-Erik Vika
+31;Nannestad;VIKEN;45;14637;38;Ap;Hans Thue
+32;Hurdal;VIKEN;11;2838;113;Sp;Paul Johan Moltzau
+33;Hole;VIKEN;50;6811;29;H;Syver Leivestad
+34;Flå;VIKEN;2;1049;228;Ap;Merete Elisabeth Høntorp Gandrud
+35;Nesbyen;VIKEN;4;3262;248;Andre;Tore Haraldset
+36;Gol;VIKEN;9;4636;124;Ap;Heidi Granli
+37;Hemsedal;VIKEN;4;2546;105;Sp;Pål Rørby
+38;Ål;VIKEN;4;4648;309;Ap;Solveig Vestenfor
+39;Hol;VIKEN;3;4434;149;Ap;Petter Rukke
+40;Sigdal;VIKEN;4;3465;228;Sp;Tine Norman
+41;Krødsherad;VIKEN;7;2219;107;Andre;Knut Martin Glesne
+42;Modum;VIKEN;31;14166;257;Sp;Sunni Grøndahl Aamodt
+43;Øvre Eiker;VIKEN;47;19709;139;Sp;Knut Kvale
+44;Lier;VIKEN;96;27118;88;H;Gunn Cecilie Ringdal
+45;Flesberg;VIKEN;5;2713;346;Sp;Oddvar Garaas
+46;Rollag;VIKEN;3;1386;335;Sp;Viel Jaren Heitmann
+47;Nore og Uvdal;VIKEN;1;2412;263;Ap;Jan Gaute Bjerke
+48;Jevnaker;VIKEN;35;6867;160;Ap;Morten Lafton
+49;Lunner;VIKEN;33;9062;258;Ap;Harald Tyrdal
+50;Kongsvinger;INNLANDET;19;17851;264;Sp;Margrethe Haarr
+51;Hamar;INNLANDET;93;31509;317;Andre;Einar Busterud
+52;Lillehammer;INNLANDET;63;28493;293;Ap;Ingunn Trosholmen
+53;Gjøvik;INNLANDET;48;30395;161;Sp;Torvild Sveen
+54;Ringsaker;INNLANDET;31;34897;295;Ap;Anita Ihle Steen
+55;Løten;INNLANDET;21;7625;240;Sp;Marte Larsen Tønseth
+56;Stange;INNLANDET;33;21072;270;Ap;Nils A. Røhne
+57;Nord-Odal;INNLANDET;11;5038;285;Ap;Lise Selnes
+58;Sør-Odal;INNLANDET;17;7914;273;Ap;Knut Hvithammer
+59;Eidskog;INNLANDET;10;6099;318;Ap;Kamilla Thue
+60;Grue;INNLANDET;6;4545;310;Ap;Rune Grenberg
+61;Åsnes;INNLANDET;7;7227;266;Sp;Kari Heggelund
+62;Elverum;INNLANDET;18;21292;255;Ap;Lillian Skjærvik
+63;Trysil;INNLANDET;2;6580;352;Sp;Erik Sletten
+64;Åmot;INNLANDET;3;4338;174;H;Ole Erik Hørstad
+65;Stor-Elvdal;INNLANDET;1;2378;53;Sp;Even Moen
+66;Rendalen;INNLANDET;1;1741;95;Ap;Linda Døsen
+67;Engerdal;INNLANDET;1;1250;100;"Sp
+Andre";Lars Erik Hyllvang (til sin død 8. desember 2019) Line Storsnes (fra 5. februar 2020)
+68;Tolga;INNLANDET;1;1563;15;SV;Bjørnar Tollan Jordet
+69;Tynset;INNLANDET;3;5537;322;Sp;Merete Myhre Moen
+70;Alvdal;INNLANDET;3;2405;56;Sp;Mona Murud
+71;Folldal;INNLANDET;1;1518;203;Ap;Kristin Langtjernet
+72;Os;INNLANDET;2;1870;178;Sp;Runa Finborud
+73;Dovre;INNLANDET;2;2512;114;Ap;Astrid Skomakerstuen Ruste
+74;Lesja;INNLANDET;1;1980;26;Sp;Mariann Skotte
+75;Skjåk;INNLANDET;1;2183;62;Sp;Edel Kveen
+76;Lom;INNLANDET;1;2204;58;Sp;Bjarne Eiolf Holø
+77;Vågå;INNLANDET;3;3564;37;Andre;Harald Sve Bjørndal
+78;Nord-Fron;INNLANDET;5;5705;61;Ap;Rune Støstad (til 28. september 2021) Anne Marie Olstad (fra 28. september 2021)
+79;Sel;INNLANDET;6;5592;99;Sp;Eldri Siem
+80;Sør-Fron;INNLANDET;4;3064;74;Sp;Ole Tvete Muruteigen
+81;Ringebu;INNLANDET;4;4408;216;Ap;Arne Fossmo
+82;Øyer;INNLANDET;8;5093;327;Sp;Jon Halvor Midtmageli
+83;Gausdal;INNLANDET;5;6023;91;Sp;Anette Musdalslien
+84;Østre Toten;INNLANDET;31;14871;277;Sp;Bror Helgestad
+85;Vestre Toten;INNLANDET;58;13459;175;Ap;Stian Olafsen
+86;Gran;INNLANDET;21;13611;278;Ap;Randi Eek Thorsen
+87;Søndre Land;INNLANDET;8;5579;48;Ap;Anne Hagenborg
+88;Nordre Land;INNLANDET;7;6581;288;Sp;Ola Tore Dokken
+89;Sør-Aurdal;INNLANDET;3;2904;297;Sp;Marit Hougsrud
+90;Etnedal;INNLANDET;3;1257;128;Sp;Linda Mæhlum Robøle
+91;Nord-Aurdal;INNLANDET;7;6360;97;Sp;Knut Arne Fjelltun
+92;Vestre Slidre;INNLANDET;5;2120;331;Sp;Haldor Ødegård
+93;Øystre Slidre;INNLANDET;4;3236;173;Sp;Odd Erik Holden
+94;Vang;INNLANDET;1;1573;200;Ap;Vidar Eltun
+95;Horten;VESTFOLD OG TELEMARK;399;27510;182;Ap;Are Karlsen
+96;Holmestrand;VESTFOLD OG TELEMARK;61;25011;185;Ap;Elin Gran Weggesrud
+97;Tønsberg;VESTFOLD OG TELEMARK;175;57026;42;Ap;Anne Rygh Pedersen
+98;Sandefjord;VESTFOLD OG TELEMARK;155;64345;31;H;Bjørn Ole Gleditsch
+99;Larvik;VESTFOLD OG TELEMARK;62;47499;106;H;Erik Bringedal
+100;Porsgrunn;VESTFOLD OG TELEMARK;227;36526;230;Ap;Robin Kåss
+101;Skien;VESTFOLD OG TELEMARK;77;55144;21;Ap;Hedda Foss Five
+102;Notodden;VESTFOLD OG TELEMARK;14;12994;176;Ap;Gry Fuglestveit Bløchlinger
+103;Færder;VESTFOLD OG TELEMARK;270;26957;7;Ap;Jon Sanness Andersen
+104;Siljan;VESTFOLD OG TELEMARK;12;2347;39;Sp;Kjell Sølverød
+105;Bamble;VESTFOLD OG TELEMARK;50;14014;234;Ap;Hallgeir Kjeldal
+106;Kragerø;VESTFOLD OG TELEMARK;36;10416;87;Sp;Grunde Wegar Knudsen
+107;Drangedal;VESTFOLD OG TELEMARK;4;4071;162;Sp;Tor Peder Lohne
+108;Nome;VESTFOLD OG TELEMARK;17;6488;50;Ap;Bjørg Tveito Lundefaret
+109;Midt-Telemark;VESTFOLD OG TELEMARK;21;10461;126;Sp;Siri Blichfeldt Dyrland
+110;Tinn;VESTFOLD OG TELEMARK;3;5604;145;H;Steinar Bergsland
+111;Hjartdal;VESTFOLD OG TELEMARK;2;1561;180;Ap;Bengt Halvard Odden
+112;Seljord;VESTFOLD OG TELEMARK;4;2900;167;Sp;Beate Marie Dahl Eide
+113;Kviteseid;VESTFOLD OG TELEMARK;4;2430;281;Sp;Bjørn Nordskog
+114;Nissedal;VESTFOLD OG TELEMARK;2;1430;145;Ap;Halvor Homme
+115;Fyresdal;VESTFOLD OG TELEMARK;1;1228;186;Ap;Erik Skjervagen
+116;Tokke;VESTFOLD OG TELEMARK;2;2164;155;Sp;Jarand Felland
+117;Vinje;VESTFOLD OG TELEMARK;1;3756;188;Sp;Jon Rikard Kleven
+118;Risør;AGDER;38;6762;33;Ap;Per Kristian Lunden
+119;Grimstad;AGDER;88;23891;71;H;Beate Skretting
+120;Arendal;AGDER;177;45065;155;Ap;Robert C. Nordli
+121;Kristiansand;AGDER;185;112588;148;Ap;Jan Oddvar Skisland
+122;Lindesnes;AGDER;26;23055;39;Ap;Even Tronstad Sagebakken
+123;Farsund;AGDER;38;9645;210;Ap;Arnt Abrahamsen
+124;Flekkefjord;AGDER;19;9027;310;Frp;Torbjørn Klungland
+125;Gjerstad;AGDER;8;2430;247;Ap;Inger Haldis Løite
+126;Vegårshei;AGDER;7;2128;192;KrF;Kjetil Torp
+127;Tvedestrand;AGDER;30;6067;144;H;Marianne Landaas
+128;Froland;AGDER;10;6004;63;KrF;Ove Gundersen
+129;Lillesand;AGDER;62;11180;102;H;Einar Holmer-Hoven
+130;Birkenes;AGDER;9;5274;152;Sp;Gyro Heia
+131;Åmli;AGDER;2;1822;316;Sp;Bjørn Gunnar Baas
+132;Iveland;AGDER;5;1335;223;"Sp
+KrF";Gro-Anita Mykjåland (til 27. september 2021) Terje Møkjåland (fra 27. september 2021)
+133;Evje og Hornnes;AGDER;7;3619;340;Ap;Svein Arne Haugen
+134;Bygland;AGDER;1;1142;271;Ap;Sigbjørn Åge Fossdal
+135;Valle;AGDER;1;1169;314;Ap;Steinar Kyrvestad
+136;Bykle;AGDER;1;930;134;Ap;Jon-Rolf Næss
+137;Vennesla;AGDER;41;14935;60;KrF;Nils Olav Larsen
+138;Åseral;AGDER;1;927;330;Ap;Inger Lise Lund Stulien
+139;Lyngdal;AGDER;17;10464;344;H;Jan Kristensen
+140;Hægebostad;AGDER;4;1690;310;Sp;Margrethe Handeland
+141;Kvinesdal;AGDER;7;5922;326;KrF;Per Sverre Kvinlaug
+142;Sirdal;AGDER;1;1772;214;Ap;Jonny Liland
+143;Eigersund;ROGALAND;38;14787;310;Ap;Odd Stangeland
+144;Stavanger;ROGALAND;561;144147;15;Ap;Kari Nessa Nordtun
+145;Haugesund;ROGALAND;549;37323;165;Ap;Arne-Christian Mohn
+146;Sandnes;ROGALAND;85;80450;81;Ap;Stanley Wirak
+147;Sokndal;ROGALAND;12;3257;353;KrF;Jonas Andersen Sayed
+148;Lund;ROGALAND;9;3174;290;H;Hogne Skjerpe
+149;Bjerkreim;ROGALAND;5;2791;253;Sp;Kjetil Slettebø
+150;Hå;ROGALAND;77;19120;242;KrF;Jonas Skrettingland
+151;Klepp;ROGALAND;195;19848;235;Ap;Sigmund Rolfsen
+152;Time;ROGALAND;112;19106;90;H;Reinert Kverneland
+153;Gjesdal;ROGALAND;22;12064;212;Ap;Frode Fjeldsbø
+154;Sola;ROGALAND;398;27457;140;Frp;Tom Henning Slethei
+155;Randaberg;ROGALAND;471;11315;193;Sp;Jarle Bø
+156;Strand;ROGALAND;55;13070;189;H;Irene Heng Lauvsnes
+157;Hjelmeland;ROGALAND;3;2580;193;Sp;Bjørn Laugaland
+158;Suldal;ROGALAND;2;3809;41;Sp;Gerd Helen Bø
+159;Sauda;ROGALAND;9;4561;291;Sp;Asbjørn Birkeland
+160;Kvitsøy;ROGALAND;85;507;12;KrF;Stian Bjørsvik
+161;Bokn;ROGALAND;19;859;130;Sp;Osmund Våga
+162;Tysvær;ROGALAND;28;11178;159;Ap;Sigmund Lier
+163;Karmøy;ROGALAND;192;42345;65;Ap;Jarle Nilsen
+164;Utsira;ROGALAND;32;192;35;Andre;Marte Eide Klovning
+165;Vindafjord;ROGALAND;15;8705;220;Sp;Ole Johan Vierdal
+166;Bergen;VESTLAND;642;285601;140;Ap;Marte Mjøs Persen (til 22. september 2021) Rune Bakervik (fra 22. september 2021)
+167;Kinn;VESTLAND;22;17160;119;Ap;Ola Teigen
+168;Etne;VESTLAND;6;4053;297;Sp;Mette Heidi Bergsvåg Ekrheim
+169;Sveio;VESTLAND;26;5798;281;Ap;Linn Therese Erve
+170;Bømlo;VESTLAND;51;11953;324;Sp;Sammy Olsen
+171;Stord;VESTLAND;138;18861;318;Ap;Gaute Epland
+172;Fitjar;VESTLAND;23;3147;354;KrF;Harald Rydland
+173;Tysnes;VESTLAND;12;2924;345;H;Kåre Martin Kleppe
+174;Kvinnherad;VESTLAND;13;13039;328;Sp;Hans Inge Myrvold
+175;Ullensvang;VESTLAND;4;11002;238;Ap;Roald Aga Haug
+176;Eidfjord;VESTLAND;1;903;25;Sp;Anders Vatle
+177;Ulvik;VESTLAND;2;1061;32;Ap;Hans Petter Thorbjørnsen
+178;Voss;VESTLAND;8;15787;301;Ap;Hans-Erik Ringkjøb
+179;Kvam;VESTLAND;15;8461;275;Ap;Torgeir Næss
+180;Samnanger;VESTLAND;10;2504;109;Andre;Knut Harald Frøland
+181;Bjørnafjorden;VESTLAND;51;25049;235;Ap;Trine Lindborg
+182;Austevoll;VESTLAND;46;5276;191;H;Morten Storebø
+183;Øygarden;VESTLAND;129;38664;334;H;Tom Georg Indrevik
+184;Askøy;VESTLAND;315;29594;268;H;Siv Høgtun
+185;Vaksdal;VESTLAND;6;3918;337;Sp;Hege Vik
+186;Modalen;VESTLAND;1;376;64;Andre;Kjetil Eikefet
+187;Osterøy;VESTLAND;33;8080;249;Sp;Lars Fjeldstad
+188;Alver;VESTLAND;45;29337;132;Sp;Sara Hamre Sekkingstad
+189;Austrheim;VESTLAND;50;2860;45;Ap;Per Lerøy
+190;Fedje;VESTLAND;58;525;227;H;Stian Herøy
+191;Masfjorden;VESTLAND;3;1660;305;H;Karstein Totland
+192;Gulen;VESTLAND;4;2272;29;Sp;Hallvard Oppedal
+193;Solund;VESTLAND;4;786;5;Sp;Gunn Åmdal Mongstad
+194;Hyllestad;VESTLAND;5;1294;287;Ap;Kjell Eide
+195;Høyanger;VESTLAND;4;4049;262;Ap;Petter Sortland
+196;Vik;VESTLAND;3;2611;130;Ap;Egil Stadheim
+197;Sogndal;VESTLAND;10;11938;210;Sp;Arnstein Menes
+198;Aurland;VESTLAND;1;1777;33;Sp;Trygve Skjerdal
+199;Lærdal;VESTLAND;2;2129;123;Ap;Audun Mo
+200;Årdal;VESTLAND;6;5170;104;Ap;Hilmar Høl
+201;Luster;VESTLAND;2;5189;18;Sp;Ivar Kvalen
+202;Askvoll;VESTLAND;10;2991;355;H;Ole André Klausen
+203;Fjaler;VESTLAND;7;2885;266;Sp;Kjetil Høgseth Felde
+204;Sunnfjord;VESTLAND;11;22020;325;Sp;Olve Grotle (til oktober 2021) Jenny Følling (fra oktober 2021)
+205;Bremanger;VESTLAND;5;3597;200;Ap;Ann Kristin Førde
+206;Stad;VESTLAND;14;9517;244;V;Alfred Bjørlo (til 1. november 2021) Gunnar Silden (fra 1. november 2021)
+207;Gloppen;VESTLAND;6;5885;86;Sp;Leidulf Gloppestad
+208;Stryn;VESTLAND;5;7118;96;Sp;Per Kjøllesdal
+209;Kristiansund;MØRE OG ROMSDAL;280;24099;205;Ap;Kjell Neergaard
+210;Molde;MØRE OG ROMSDAL;22;31870;217;H;Torgeir Dahl
+211;Ålesund;MØRE OG ROMSDAL;110;66670;207;Ap;Eva Vinje Aurdal
+212;Vanylven;MØRE OG ROMSDAL;8;3083;299;V;Lena Marie Landsverk Sande
+213;Sande;MØRE OG ROMSDAL;27;2445;331;Sp;Olav Myklebust
+214;Ulstein;MØRE OG ROMSDAL;90;8575;82;Frp;Knut Erik Engh
+215;Hareid;MØRE OG ROMSDAL;67;5140;279;Andre;Bernt Brandal
+216;Ørsta;MØRE OG ROMSDAL;17;10830;209;Sp;Stein Aam
+217;Stranda;MØRE OG ROMSDAL;5;4482;220;Sp;Jan Ove Tryggestad
+218;Sykkylven;MØRE OG ROMSDAL;23;7596;306;Sp;Odd Jostein Drotninghaug
+219;Sula;MØRE OG ROMSDAL;165;9409;338;Ap;Jim Arve Røssevoll
+220;Giske;MØRE OG ROMSDAL;213;8506;51;KrF;Harry Valderhaug
+221;Vestnes;MØRE OG ROMSDAL;17;6958;265;Sp;Geir Inge Lien
+222;Rauma;MØRE OG ROMSDAL;5;7026;204;SV;Yvonne Wold
+223;Aukra;MØRE OG ROMSDAL;58;3522;52;H;Odd Jørgen Nilssen
+224;Averøy;MØRE OG ROMSDAL;34;5808;137;Ap;Ingrid Ovidie Rangønes
+225;Gjemnes;MØRE OG ROMSDAL;7;2658;55;Sp;Knut Sjømæling
+226;Tingvoll;MØRE OG ROMSDAL;9;2985;119;Sp;Ingrid Waagen
+227;Sunndal;MØRE OG ROMSDAL;4;6956;8;Ap;Ståle Refstie
+228;Surnadal;MØRE OG ROMSDAL;4;5872;57;Sp;Margrethe Svinvik
+229;Smøla;MØRE OG ROMSDAL;8;2128;158;Sp;Svein Roksvåg
+230;Aure;MØRE OG ROMSDAL;6;3468;207;Ap;Hanne Berit Brekken
+231;Volda;MØRE OG ROMSDAL;13;10781;342;Sp;Sølvi Dimmen
+232;Fjord;MØRE OG ROMSDAL;2;2502;253;Ap;Eva Hove
+233;Hustadvika;MØRE OG ROMSDAL;26;13317;243;Sp;Tove Henøen
+234;Trondheim;TRØNDELAG;419;207595;93;Ap;Rita Ottervik
+235;Steinkjer;TRØNDELAG;12;24152;73;Sp;Bjørn Arild Gram (til 16. mars 2020) Anne Berit Lein (fra 16. mars 2020)
+236;Namsos;TRØNDELAG;8;15096;341;Ap;Arnhild Holstad (til 17. desember 2021) Frode Båtnes (fra 17. desember 2021)
+237;Frøya;TRØNDELAG;23;5204;44;H;Kristin Strømskag
+238;Osen;TRØNDELAG;3;925;24;Ap;John Einar Høvik
+239;Oppdal;TRØNDELAG;3;6981;92;Sp;Geir Arild Espnes
+240;Rennebu;TRØNDELAG;3;2454;232;Ap;Ola Øie
+241;Røros;TRØNDELAG;3;5550;212;Ap;Isak Veierud Busch
+242;Holtålen;TRØNDELAG;2;1968;155;Andre;Arve Hitterdal
+243;Midtre Gauldal;TRØNDELAG;3;6243;261;Sp;Sivert Moen
+244;Melhus;TRØNDELAG;26;16949;218;Sp;Jorid Jagtøien
+245;Skaun;TRØNDELAG;39;8367;255;Sp;Gunn Iversen Stokke
+246;Malvik;TRØNDELAG;88;14334;46;Ap;Trond Hoseth
+247;Selbu;TRØNDELAG;4;4069;171;Ap;Ole Morten Balstad
+248;Tydal;TRØNDELAG;1;759;117;Sp;Jens Arne Kvello
+249;Meråker;TRØNDELAG;2;2413;110;Andre;Kjersti Kjenes
+250;Stjørdal;TRØNDELAG;27;24283;121;Sp;Ivar Vigdenes til 23. mai 2022 Eli Arnstad fra 23. mai 2022
+251;Frosta;TRØNDELAG;35;2609;80;H;Frode Revhaug
+252;Levanger;TRØNDELAG;33;20170;343;Sp;Anita Ravlo Sand
+253;Verdal;TRØNDELAG;10;14986;296;Sp;Pål Sverre Fikse
+254;Lierne;TRØNDELAG;1;1328;77;Ap;Bente Estil til 18. november 2021 Reidar Bolling Rødli fra 18. november 2021
+255;Namsskogan;TRØNDELAG;1;846;240;Ap;Stian Brekkvassmo
+256;Grong;TRØNDELAG;2;2347;88;Sp;Borgny Kjølstad Grande
+257;Høylandet;TRØNDELAG;2;1215;43;Sp;Hege Nordheim-Viken
+258;Overhalla;TRØNDELAG;6;3865;197;Sp;Per Olav Tyldum (til 19. oktober 2021) Hege Kristin Kværnø Saugen (fra 19. oktober 2021)
+259;Flatanger;TRØNDELAG;3;1100;128;Sp;Olav Jørgen Bjørkås
+260;Leka;TRØNDELAG;5;563;69;Ap;Elisabeth Helmersen
+261;Inderøy;TRØNDELAG;19;6764;116;Sp;Ida Stuberg
+262;Indre Fosen;TRØNDELAG;10;9948;347;Sp;Bjørnar Buhaug
+263;Heim;TRØNDELAG;6;5941;177;Sp;Odd Jarle Svanem
+264;Hitra;TRØNDELAG;7;5140;48;Ap;Ole Laurits Haugen
+265;Ørland;TRØNDELAG;24;10306;181;H;Tom Myrvold
+266;Åfjord;TRØNDELAG;3;4271;178;Ap;Vibeke Stjern
+267;Orkland;TRØNDELAG;10;18300;276;Sp;Oddbjørn Bang
+268;Nærøysund;TRØNDELAG;7;9581;153;Ap;Amund Hellesø
+269;Rindal;TRØNDELAG;3;1989;280;Sp;Vibeke Langli
+270;Bodø;NORDLAND;40;52560;78;Ap;Ida Maria Pinnerød
+271;Narvik;NORDLAND;7;21661;230;Ap;Rune Edvardsen
+272;Bindal;NORDLAND;1;1397;170;Ap;Britt Helstad
+273;Sømna;NORDLAND;10;1990;238;Sp;Hans Gunnar Holand
+274;Brønnøy;NORDLAND;8;7803;83;Sp;Eilif Trælnes
+275;Vega;NORDLAND;7;1182;10;Ap;Andre Møller
+276;Vevelstad;NORDLAND;1;465;15;Sp;Torhild Haugann
+277;Alstahaug;NORDLAND;40;7394;111;Sp;Peter Talseth
+278;Leirfjord;NORDLAND;5;2278;283;Ap;Ivan Haugland
+279;Vefsn;NORDLAND;7;13268;147;Sp;Berit Hundåla
+280;Grane;NORDLAND;1;1453;101;Sp;Ellen Schjølberg
+281;Hattfjelldal;NORDLAND;1;1267;13;Sp;Harald Lie
+282;Dønna;NORDLAND;7;1371;259;Sp;Nils Jenssen
+283;Nesna;NORDLAND;9;1701;189;Ap;Hanne Davidsen
+284;Hemnes;NORDLAND;3;4428;329;Sp;Paul Asphaug
+285;Rana;NORDLAND;6;26083;94;Ap;Geir Waage
+286;Lurøy;NORDLAND;7;1876;339;H;Håkon Lund
+287;Træna;NORDLAND;28;442;142;Ap;Jan Helge Andersen
+288;Rødøy;NORDLAND;2;1206;250;Ap;Inger Monsen
+289;Meløy;NORDLAND;8;6247;198;Ap;Sigurd Stormo
+290;Gildeskål;NORDLAND;3;1920;103;H;Bjørn Magne Pedersen
+291;Beiarn;NORDLAND;1;999;75;Sp;Monika Sande
+292;Saltdal;NORDLAND;2;4632;323;Sp;Rune Berg
+293;Sørfold;NORDLAND;1;1912;349;Sp;Gisle Hansen
+294;Steigen;NORDLAND;3;2586;218;SV;Aase Refsnes
+295;Lødingen;NORDLAND;4;2003;283;Ap;Hugo Jacobsen
+296;Røst;NORDLAND;49;488;28;Andre;Elisabeth Mikalsen
+297;Værøy;NORDLAND;37;698;206;Andre;Susan Berg Kristiansen
+298;Flakstad;NORDLAND;7;1238;84;Sp;Trond Kroken
+299;Vestvågøy;NORDLAND;28;11521;235;Ap;Remi Solberg
+300;Vågan;NORDLAND;21;9670;107;Sp;Frank Johnsen
+301;Hadsel;NORDLAND;15;8065;250;Sp;Kurt Jenssen
+302;Bø;NORDLAND;11;2576;336;H;Sture Pedersen
+303;Øksnes;NORDLAND;14;4416;163;Sp;John Danielsen
+304;Andøy;NORDLAND;7;4588;349;Sp;Knut Andreas Nordmo
+305;Moskenes;NORDLAND;9;989;225;Andre;Lillian Rasmussen
+306;Hamarøy;NORDLAND;1;2701;187;Sp;Britt Kristoffersen
+307;Tromsø;TROMS OG FINNMARK;31;77095;66;Ap;Gunnar Wilhelmsen
+308;Harstad;TROMS OG FINNMARK;58;24738;274;Ap;Kari-Anne Opsal
+309;Alta;TROMS OG FINNMARK;6;20847;126;Ap;Monica Nielsen
+310;Vardø;TROMS OG FINNMARK;3;1959;286;MDG;Ørjan Jensen
+311;Vadsø;TROMS OG FINNMARK;5;5642;226;Ap;Wenche Pedersen
+312;Hammerfest;TROMS OG FINNMARK;4;11331;137;Ap;Marianne Sivertsen Næss (til 28. oktober 2021) Terhe Wikstrøm (fra 28. oktober 2021)
+313;Kvæfjord;TROMS OG FINNMARK;6;2822;252;Ap;Torbjørn Larsen
+314;Tjeldsund;TROMS OG FINNMARK;5;4209;315;Ap;Helene Berg Nilsen
+315;Ibestad;TROMS OG FINNMARK;6;1320;331;H;Dag Sigurd Tor Brustind
+316;Gratangen;TROMS OG FINNMARK;4;1092;136;Sp;Anita Karlsen
+317;Bardu;TROMS OG FINNMARK;2;3959;53;Sp;Toralf Heimdal
+318;Salangen;TROMS OG FINNMARK;5;2089;224;Sp;Sigrun Wiggen Prestbakmo
+319;Målselv;TROMS OG FINNMARK;2;6609;321;Sp;Bengt-Magne Luneng
+320;Sørreisa;TROMS OG FINNMARK;10;3465;308;Ap;Jan-Eirik Nordahl
+321;Dyrøy;TROMS OG FINNMARK;4;1063;246;Ap;Marit Alvig Espenes
+322;Senja;TROMS OG FINNMARK;8;14725;215;Sp;Tom Rune Eliseussen
+323;Balsfjord;TROMS OG FINNMARK;4;5559;292;Ap;Gunda Johansen
+324;Karlsøy;TROMS OG FINNMARK;2;2172;163;Andre;Mona Pedersen
+325;Lyngen;TROMS OG FINNMARK;3;2773;79;Sp;Dan Håvard Johnsen
+326;Skjervøy;TROMS OG FINNMARK;6;2893;184;KrF;Ørjan Albrigtsen
+327;Nordreisa;TROMS OG FINNMARK;1;4812;150;Ap;Hilde Anita Nyvoll
+328;Kvænangen;TROMS OG FINNMARK;1;1166;143;Ap;Eirik Losnegaard Mevik
+329;Loppa;TROMS OG FINNMARK;1;860;132;Ap;Stein Thomassen
+330;Hasvik;TROMS OG FINNMARK;2;983;304;Ap;Eva Danielsen Husby
+331;Måsøy;TROMS OG FINNMARK;1;1197;84;Ap;Bernth Sjursen
+332;Nordkapp;TROMS OG FINNMARK;3;3075;268;SV;Jan Olsen
+333;Lebesby;TROMS OG FINNMARK;0;1271;134;Ap;Sigurd Rafaelsen
+334;Gamvik;TROMS OG FINNMARK;1;1097;356;SV;Alf Normann Hansen
+335;Berlevåg;TROMS OG FINNMARK;1;928;260;Ap;Rolf Laupstad
+336;Deatnu - Tana;TROMS OG FINNMARK;1;2829;200;Ap;Helga Pedersen
+337;Båtsfjord;TROMS OG FINNMARK;2;2200;222;Sp;Ronald Wærnes
+338;Sør-Varanger;TROMS OG FINNMARK;3;10103;58;Ap;Rune Rafaelsen (til 28. april 2021) Lena Norum Bergeng (fra 28. april 2021)
